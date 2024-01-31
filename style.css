@@ -88,7 +88,8 @@ body {
   gap: 5px;
 }
 .date {
-  display: flex;
+  display: flex;                        
+  align-items: center;
   gap: 5px;
   color: #8eaddd;
   font-size: 0.85em;
