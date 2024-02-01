@@ -70,9 +70,10 @@ body {
 
 .content {
   color: #5b6f91;
-  font-size: 0.9em;
+  font-size: 1em;
   font-weight: none;
   line-height: 23px;
+  margin-bottom: 10px;
 }
 .info {
   display: flex;
